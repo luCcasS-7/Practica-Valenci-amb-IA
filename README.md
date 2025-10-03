@@ -17,20 +17,7 @@ L’objectiu és oferir un espai amb exercicis classificats per nivells i aparta
   /data        → banc d’exercicis
   /pages       → pàgines per nivell i simulacres
   /utils       → funcions d’ajuda (selecció aleatòria, filtres, etc.)
-
-🚀 Instal·lació i execució
-Clona el repositori:
-git clone https://github.com/tuusuari/practica-valencia-ia.git
-cd practica-valencia-ia
-
-Instal·la les dependències:
-npm install
-
-Executa en mode desenvolupament:
-npm run dev
-
-Obri en el navegador:
-http://localhost:3000
+  
 📊 Roadmap
  Millorar el sistema de puntuació i seguiment de l’usuari.
  Afegir més audios per a la part oral.
